@@ -1,0 +1,7 @@
+{
+  "name": "Eco-vend",
+  "description": "An AI-powered recycling kiosk application that identifies recyclables, rewards users with Eco-Coins, and allows redeeming them for products or digital payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
